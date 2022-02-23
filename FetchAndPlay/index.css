@@ -1,0 +1,13 @@
+
+div{
+    background-image: url(image\Bitcoin-770x433.webp);
+}
+a:link{
+    text-decoration: none;
+    background-color: lightblue;
+    
+}
+img{
+    height: 700px;
+    margin-top: 0%;
+}
